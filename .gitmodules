@@ -1,0 +1,18 @@
+[submodule "lvfs-core"]
+	path = lvfs-core
+	url = git@github.com:LiquidFM/lvfs-core.git
+[submodule "lvfs-arc"]
+	path = lvfs-arc
+	url = git@github.com:LiquidFM/lvfs-arc.git
+[submodule "lvfs-db"]
+	path = lvfs-db
+	url = git@github.com:LiquidFM/lvfs-db.git
+[submodule "lvfs-bits"]
+	path = lvfs-bits
+	url = git@github.com:LiquidFM/lvfs-bits.git
+[submodule "lvfs-qimg"]
+	path = lvfs-qimg
+	url = git@github.com:LiquidFM/lvfs-qimg.git
+[submodule "lvfs-qplayer"]
+	path = lvfs-qplayer
+	url = git@github.com:LiquidFM/lvfs-qplayer.git
