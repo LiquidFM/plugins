@@ -37,8 +37,8 @@ include_directories (${LVFS_INCLUDE})
 
 
 # Plugins
-#add_subdirectory (lvfs-db)
 add_subdirectory (lvfs-arc)
 add_subdirectory (lvfs-bits)
+add_subdirectory (lvfs-db)
 add_subdirectory (lvfs-qimg)
 add_subdirectory (lvfs-qplayer)
